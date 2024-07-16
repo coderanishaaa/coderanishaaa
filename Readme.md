@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 🚀Hi there! 
 
-I'm in my final year of a B.Tech program studying electronics and telecommunication @MITS Gwalior. During my time at college, I improved my leadership, teamwork, and communication abilities. 
+I'm in my final year of a B.Tech program studying Computer Science @Symbiosis Institute Of Technology Nagpur. During my time at college, I improved my leadership, teamwork, and communication abilities. 
 
 I have expertise in network analysis, signal processing, and circuit design. Antennas and wireless communication are my areas of interest. Eager to use my skills and passion to support a vibrant team in the telecom sector.
 
@@ -42,6 +42,8 @@ Along with expanding my expertise in my primary field, I'm also learning DSA, We
 - Visual Studio Code
 - PyCharm
 - Google Colab
+- Jupyter Lab
+- R Studio
   
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,6 +57,6 @@ Along with expanding my expertise in my primary field, I'm also learning DSA, We
 
 ### ✉️ Connect With Me<br>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhinav4507/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="mailto:abhinavsengar0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/anisha-jaiswal-366885224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="mailto:anishajaiswal28070@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://x.com/Abhinav_s01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
