@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sritan kar</h1>
+<h1 align="center">Hi 👋, I'm Anisha Jaiswal</h1>
 <div style="text-align:center;">
     <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </div>
@@ -7,7 +7,7 @@
 
 <h2>About me</h2>
 
-Computer Science Final year Undergraduate Student @SRMIST 🎓 | Passionate about AI & Machine Learning 🤖 | Exploring the realms of technology and innovation! ✨
+Computer Science Final year Undergraduate Student @SIT Nagpur 🎓 | Passionate about Data Science & Machine Learning 🤖 | Exploring the realms of technology and innovation! ✨
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-lal&label=Profile%20views&color=51b4f2&style=flat" alt="abhay-lal" /> </p>
 
@@ -31,11 +31,11 @@ Computer Science Final year Undergraduate Student @SRMIST 🎓 | Passionate abou
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sritankar&show_icons=true&locale=en&layout=compact" alt="sritankar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderanishaaa&show_icons=true&locale=en&layout=compact" alt="coderanishaaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sritankar&show_icons=true&locale=en" alt="sritankar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderanishaaa&show_icons=true&locale=en" alt="coderanishaaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sritankar&" alt="sritankar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderanishaaa&" alt="coderanishaaa" /></p>
 
 ### ✉️ Connect With Me<br>
 <p align="left">
