@@ -9,6 +9,14 @@
 
 Computer Science Final year Undergraduate Student @SIT Nagpur 🎓 | Passionate about Data Science & Machine Learning 🤖 | Exploring the realms of technology and innovation! ✨
 
+🌟 As a Student, I am deeply passionate about database management system and to create website too . I have 5-6 years of experience in the SQL language, I have the privilege of hackerrank certification of SQL.
+
+💡 My mission is to become a data scientist.
+
+🚀 Throughout my career , I've been fortunate to SQL Language from last 5 years. These experiences have equipped me to do backend in websites.
+
+📬 I'm always open to connecting with fellow professionals, sharing insights, and exploring collaboration opportunities. Feel free to reach out to me .
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-lal&label=Profile%20views&color=51b4f2&style=flat" alt="abhay-lal" /> </p>
 
 ## Skills
