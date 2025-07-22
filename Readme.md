@@ -7,7 +7,7 @@
 
 <h2>About me</h2>
 
-Computer Science Final year Undergraduate Student @SIT Nagpur 🎓 | Passionate about Data Science & Machine Learning 🤖 | Exploring the realms of technology and innovation! ✨
+Computer Science Undergraduate Student @SIT Nagpur 🎓 | Passionate about Data Science & Machine Learning 🤖 | Exploring the realms of technology and innovation! ✨
 
 🌟 As a Student, I am deeply passionate about database management system and to create website too . I have 5-6 years of experience in the SQL language, I have the privilege of hackerrank certification of SQL.
 
